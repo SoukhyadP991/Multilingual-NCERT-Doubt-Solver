@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+pytesseract
+pdf2image
+pypdf
+llama-cpp-python
+
+numpy
+pandas
+rank_bm25
+langdetect
