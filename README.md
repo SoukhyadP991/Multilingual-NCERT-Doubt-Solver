@@ -125,3 +125,32 @@ Project_Root/
 ├── benchmark_50.py           # Automated Stress Test
 └── PROJECT_REPORT.md         # Detailed Project Documentation
 ```
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SoukhyadP991">
+        <img src="https://avatars.githubusercontent.com/SoukhyadP991" width="80"/><br />
+        <sub><b>Soukhyad Pohane</b></sub><br/>
+        <sub>Contributor</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ommsawant">
+        <img src="https://avatars.githubusercontent.com/ommsawant" width="80"/><br />
+        <sub><b>ommsawant</b></sub><br/>
+        <sub>Contributor</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pratham0076">
+        <img src="https://avatars.githubusercontent.com/pratham0076" width="80"/><br />
+        <sub><b>pratham0076</b></sub><br/>
+        <sub>Contributor</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
