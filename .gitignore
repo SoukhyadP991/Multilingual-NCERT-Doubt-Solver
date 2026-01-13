@@ -26,8 +26,8 @@ venv/
 .env
 
 # Large Models (Do not upload GGUF files to GitHub)
-models/*.gguf
-models/
+models/*
+!models/.gitkeep
 
 # Data
 data/raw/*

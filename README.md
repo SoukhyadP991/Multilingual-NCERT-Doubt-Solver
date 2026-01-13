@@ -67,7 +67,16 @@ Run these in your terminal within the project directory:
 pip install -r requirements.txt
 
 # 2. Download the Model
-# (Ensure 'mistral-7b-instruct-v0.1.Q4_K_M.gguf' is placed inside 'models/' directory)
+# The project requires a GGUF quantized model.
+# Recommended: Mistral 7B Instruct v0.2 Quantized (TheBloke/Mistral-7B-Instruct-v0.2-GGUF)
+
+# Step 1: Download the file 'mistral-7b-instruct-v0.2.Q4_K_M.gguf' from Hugging Face:
+# Link: https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/blob/main/mistral-7b-instruct-v0.2.Q4_K_M.gguf
+
+# Step 2: Place the downloaded file inside the 'models/' folder of this project.
+# Your directory should look like this:
+# models/
+# └── mistral-7b-instruct-v0.2.Q4_K_M.gguf
 ```
 
 ---
