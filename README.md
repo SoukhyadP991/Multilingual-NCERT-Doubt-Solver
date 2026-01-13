@@ -77,14 +77,22 @@ pip install -r requirements.txt
 # Your directory should look like this:
 # models/
 # └── mistral-7b-instruct-v0.2.Q4_K_M.gguf
-```
+# 3. Add Data (PDFs)
+# Place your NCERT PDF textbooks inside the 'data/raw/' folder.
+# You can use standard PDFs or scanned PDFs (OCR will handle them).
+# Directory structure:
+# data/
+# └── raw/
+#     ├── Class10_Science.pdf
+#     ├── Class9_History.pdf
+#     └── ...
 
 ---
 
 ## 4. How to Run
 
 ### Step 1: Ingest Data (Prepare the Brain)
-If you add new PDFs to `data/raw/`, run this command to update the database:
+Once your PDFs are in `data/raw/`, run this command to process them:
 
 ```bash
 python src/ingestion.py
